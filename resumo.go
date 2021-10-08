@@ -101,9 +101,11 @@ func repeticao() {
 
 func arrays() {
 	var frutas [5]string
+	index := 1
 	for i := 0; i < len(frutas); i++ {
-		fmt.Printf("Informe o nome %dº fruta: ", i)
+		fmt.Printf("Informe o nome da %dº fruta: ", index)
 		fmt.Scanf("%s", &frutas[i])
+		index += 1
 	}
 	fmt.Println(frutas)
 }
