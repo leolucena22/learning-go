@@ -26,7 +26,7 @@ func ponteiros() {
 }
 
 func variaveis() {
-	// Podemos intanciar várias variáveis dessa forma
+	// Podemos instanciar várias variáveis dessa forma
 	var (
 		peso   float64 = 75.0
 		idade  int     = 18
