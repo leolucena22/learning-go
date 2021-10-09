@@ -18,4 +18,6 @@ var z bool
 
 func main() {
 	fmt.Println(x, y, z)
+	// O compilador go atribuiu o valor zero para todas as variáveis, dependendo do tipo, ela retorna o zero propriamente
+	// dito ou não.
 }
