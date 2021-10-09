@@ -6,6 +6,6 @@
 
 <br><br>
 
-> Estou usando como base o curso do Canal Aprenda Go
+> Estou usando como base o curso do Canal Aprenda Go da [@ellenkorbes](https://github.com/ellenkorbes)
 
 > [Link da playlist](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg)
