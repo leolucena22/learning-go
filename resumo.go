@@ -8,7 +8,7 @@ import (
 )
 
 func numeros(n1 float32, n2 float32) {
-	soma := n1 + n2 // := possibilite a instaciação de varáveis sem usar o "var" no início
+	soma := n1 + n2 // := possibilite a instanciação de varáveis sem usar o "var" no início
 	fmt.Println(soma)
 }
 
